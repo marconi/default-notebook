@@ -1,0 +1,13 @@
+{
+  "name": "default-notebook",
+  "main": "./lib/default-notebook",
+  "version": "0.0.0",
+  "description": "Select your default notebook from sidebar",
+  "keywords": [],
+  "repository": "https://github.com/marconi/default-notebook",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {}
+}
